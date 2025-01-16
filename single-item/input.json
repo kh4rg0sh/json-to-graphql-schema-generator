@@ -1,0 +1,76 @@
+{
+    "id": "C04S265BQ",
+    "name": "general",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1431627876,
+    "is_archived": false,
+    "is_general": true,
+    "unlinked": 0,
+    "name_normalized": "general",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T04S2655L",
+    "updated": 1732342262386,
+    "parent_conversation": null,
+    "creator": "U04S26564",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T04S2655L"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "<https://docs.google.com/document/d/1OpproKqkzUekeJhL2F3oDUhxWiUSj2XDX21--B-l_58>",
+      "creator": "U05FJHWL9RB",
+      "last_set": 1688579134
+    },
+    "purpose": {
+      "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "canvas": {
+        "file_id": "F05NKD3EFMH",
+        "is_empty": false,
+        "quip_thread_id": "ffQ9AAoiUa4"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "id": "Ct07HWUWMZ53",
+          "type": "folder",
+          "label": ""
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct07HWUWMZ53",
+          "type": "folder"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 329
+}
